@@ -12,7 +12,7 @@ This repository contains a **mobile-friendly portfolio website** developed using
 ## Links
 
 - **Netlify Live Link:** https://mustafairfanportfolio.netlify.app/  
-- **GitHub Repository:** https://github.com/MustafaIrfan2021/ASSIGNMENT-01-WEB-ENGINEERING-Mustafa-irfan-121-/edit/main/README.md 
+- **GitHub Repository:** https://github.com/MustafaIrfan2021/ASSIGNMENT-01-WEB-ENGINEERING-Mustafa-irfan-BSE-23F-121 
 
 ## Submission Details
 
